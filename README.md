@@ -1,4 +1,4 @@
-<img src="./Logo-Compressed.png" alt="Logo" width="200" style="display:block; margin-left:auto; margin-right:auto;"/>
+<a href="https://github.com/stars/star-whisper9/lists/fancy-junk" target="_blank"><img src="./Logo-Compressed.png" alt="Logo" width="200" style="display:block; margin-left:auto; margin-right:auto;"/></a>
 
 # 年度男娘程度总结器
 
